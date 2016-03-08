@@ -1,0 +1,6 @@
+!<mkRTViewData> v1.0.0
+RTV/001/CUS .\win_b64\code\bin\AddinT3.dll|.\CAATest3\AddinT3.m
+INT/000/CUS .\win_b64\code\lib\AddinT3.exp|.\CAATest3\AddinT3.m
+CSC/000/DSI .\CAATest3\AddinT3.m\Objects\win_b64\mkcsc\AddinT3.cscdb|.\CAATest3\AddinT3.m
+BTV/000/CUS .\win_b64\code\lib\AddinT3.lib|.\CAATest3\AddinT3.m
+INT/000/CUS .\win_b64\code\bin\AddinT3.pdb|.\CAATest3\AddinT3.m

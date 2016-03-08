@@ -1,0 +1,5 @@
+/I"D:\catiav5_r22\CAAWorkspaceR22\.\CAATest1\CAAWindowTest1.m\src"
+/I"D:\catiav5_r22\CAAWorkspaceR22\.\CAATest1\CAAWindowTest1.m\LocalInterfaces"
+/I"D:\catiav5_r22\CAAWorkspaceR22\.\CAATest1\CAAWindowTest1.m\LocalGenerated\win_b64"
+/I"D:\catiav5_r22\CAAWorkspaceR22\.\CAATest1\PublicInterfaces"
+/I"D:\catiav5_r22\CAAWorkspaceR22\.\CAATest1\ImportedInterfaces\win_b64"

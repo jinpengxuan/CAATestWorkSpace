@@ -1,0 +1,6 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\lib\SelT3.exp|.\CAATest3\SelT3.m
+RTV/001/CUS .\win_b64\code\bin\SelT3.dll|.\CAATest3\SelT3.m
+CSC/000/DSI .\CAATest3\SelT3.m\Objects\win_b64\mkcsc\SelT3.cscdb|.\CAATest3\SelT3.m
+INT/000/CUS .\win_b64\code\bin\SelT3.pdb|.\CAATest3\SelT3.m
+BTV/000/CUS .\win_b64\code\lib\SelT3.lib|.\CAATest3\SelT3.m

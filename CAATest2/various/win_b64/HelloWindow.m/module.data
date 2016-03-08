@@ -1,0 +1,6 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\lib\HelloWindow.exp|.\CAATest2\HelloWindow.m
+RTV/001/CUS .\win_b64\code\bin\HelloWindow.dll|.\CAATest2\HelloWindow.m
+INT/000/CUS .\win_b64\code\bin\HelloWindow.pdb|.\CAATest2\HelloWindow.m
+CSC/000/DSI .\CAATest2\HelloWindow.m\Objects\win_b64\mkcsc\HelloWindow.cscdb|.\CAATest2\HelloWindow.m
+BTV/000/CUS .\win_b64\code\lib\HelloWindow.lib|.\CAATest2\HelloWindow.m

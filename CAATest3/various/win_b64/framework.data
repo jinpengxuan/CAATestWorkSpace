@@ -1,0 +1,13 @@
+!<mkRTViewData> v1.0.0
+RTV/000/DSI .\win_b64\resources\msgcatalog\DbcsTest\CAAAddin.CATNls|.\CAATest3\CNext\resources\msgcatalog\CAAAddin.CATNls
+DAT/002/CUS .\win_b64\resources\msgcatalog\CAAAddin.CATNls|.\CAATest3\CNext\resources\msgcatalog\CAAAddin.CATNls
+RTV/000/DSI .\win_b64\resources\msgcatalog\DbcsTest\CAAAddinHeader.CATNls|.\CAATest3\CNext\resources\msgcatalog\CAAAddinHeader.CATNls
+DAT/002/CUS .\win_b64\resources\msgcatalog\CAAAddinHeader.CATRsc|.\CAATest3\CNext\resources\msgcatalog\CAAAddinHeader.CATRsc
+DAT/002/CUS .\win_b64\resources\msgcatalog\CAAAddinHeader.CATNls|.\CAATest3\CNext\resources\msgcatalog\CAAAddinHeader.CATNls
+BTV/002/CUS .\win_b64\code\productIC\CAATest3IC.xml|.\CAATest3
+RTV/000/DSI .\win_b64\resources\msgcatalog\NlsTest\CAAAddin.CATNls|.\CAATest3\CNext\resources\msgcatalog\CAAAddin.CATNls
+RTV/000/DSI .\win_b64\resources\msgcatalog\NlsTest\CAAAddinHeader.CATNls|.\CAATest3\CNext\resources\msgcatalog\CAAAddinHeader.CATNls
+BTV/002/CUS .\win_b64\code\productIC\CAATest3IC.script|.\CAATest3
+DAT/002/CUS .\win_b64\code\dictionary\CAATest3.dico|.\CAATest3\CNext\code\dictionary\CAATest3.dico
+CSC/002/DSI .\CAATest3\IdentityCard\Objects\win_b64\mkcsc\CAATest3.cscdb|.\CAATest3
+RTV/002/DSI .\win_b64\code\productIC\CAATest3IC.required|.\CAATest3

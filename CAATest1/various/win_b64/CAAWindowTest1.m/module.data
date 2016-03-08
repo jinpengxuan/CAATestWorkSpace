@@ -1,0 +1,4 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\bin\CAAWindowTest1.pdb|.\CAATest1\CAAWindowTest1.m
+CSC/000/DSI .\CAATest1\CAAWindowTest1.m\Objects\win_b64\mkcsc\CAAWindowTest1.cscdb|.\CAATest1\CAAWindowTest1.m
+RTV/001/CUS .\win_b64\code\bin\CAAWindowTest1.exe|.\CAATest1\CAAWindowTest1.m

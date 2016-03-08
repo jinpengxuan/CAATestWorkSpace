@@ -1,0 +1,6 @@
+!<mkRTViewData> v1.0.0
+DAT/002/CUS .\win_b64\code\dictionary\CAATest4.dico|.\CAATest4\CNext\code\dictionary\CAATest4.dico
+BTV/002/CUS .\win_b64\code\productIC\CAATest4IC.xml|.\CAATest4
+BTV/002/CUS .\win_b64\code\productIC\CAATest4IC.script|.\CAATest4
+CSC/002/DSI .\CAATest4\IdentityCard\Objects\win_b64\mkcsc\CAATest4.cscdb|.\CAATest4
+RTV/002/DSI .\win_b64\code\productIC\CAATest4IC.required|.\CAATest4

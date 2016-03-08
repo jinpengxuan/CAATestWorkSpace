@@ -1,0 +1,6 @@
+!<mkRTViewData> v1.0.0
+BTV/000/CUS .\win_b64\code\lib\DrwAddin.lib|.\CAATest2\DrwAddin.m
+INT/000/CUS .\win_b64\code\bin\DrwAddin.pdb|.\CAATest2\DrwAddin.m
+INT/000/CUS .\win_b64\code\lib\DrwAddin.exp|.\CAATest2\DrwAddin.m
+CSC/000/DSI .\CAATest2\DrwAddin.m\Objects\win_b64\mkcsc\DrwAddin.cscdb|.\CAATest2\DrwAddin.m
+RTV/001/CUS .\win_b64\code\bin\DrwAddin.dll|.\CAATest2\DrwAddin.m

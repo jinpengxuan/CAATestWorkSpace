@@ -1,0 +1,10 @@
+!<mkRTViewData> v1.0.0
+RTV/000/DSI .\win_b64\resources\msgcatalog\NlsTest\CAADlgWindow1.CATNls|.\CAATest5\CNext\resources\msgcatalog\CAADlgWindow1.CATNls
+DAT/002/CUS .\win_b64\resources\msgcatalog\CAADlgWindow1.CATNls|.\CAATest5\CNext\resources\msgcatalog\CAADlgWindow1.CATNls
+BTV/002/CUS .\win_b64\code\productIC\CAATest5IC.xml|.\CAATest5
+DAT/002/CUS .\win_b64\resources\msgcatalog\CAADlgWindow1.CATRsc|.\CAATest5\CNext\resources\msgcatalog\CAADlgWindow1.CATRsc
+BTV/002/CUS .\win_b64\code\productIC\CAATest5IC.script|.\CAATest5
+CSC/002/DSI .\CAATest5\IdentityCard\Objects\win_b64\mkcsc\CAATest5.cscdb|.\CAATest5
+DAT/002/CUS .\win_b64\code\dictionary\CAATest5.dico|.\CAATest5\CNext\code\dictionary\CAATest5.dico
+RTV/002/DSI .\win_b64\code\productIC\CAATest5IC.required|.\CAATest5
+RTV/000/DSI .\win_b64\resources\msgcatalog\DbcsTest\CAADlgWindow1.CATNls|.\CAATest5\CNext\resources\msgcatalog\CAADlgWindow1.CATNls

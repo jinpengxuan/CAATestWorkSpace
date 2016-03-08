@@ -1,0 +1,6 @@
+!<mkRTViewData> v1.0.0
+RTV/001/CUS .\win_b64\code\bin\DlgWindow.dll|.\CAATest5\DlgWindow.m
+INT/000/CUS .\win_b64\code\bin\DlgWindow.pdb|.\CAATest5\DlgWindow.m
+CSC/000/DSI .\CAATest5\DlgWindow.m\Objects\win_b64\mkcsc\DlgWindow.cscdb|.\CAATest5\DlgWindow.m
+INT/000/CUS .\win_b64\code\lib\DlgWindow.exp|.\CAATest5\DlgWindow.m
+BTV/000/CUS .\win_b64\code\lib\DlgWindow.lib|.\CAATest5\DlgWindow.m
