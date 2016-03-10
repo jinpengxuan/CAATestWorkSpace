@@ -1,5 +1,0 @@
-/I"D:\catiav5_r22\TestSpace\.\CAATest5\DrwSection.m\src"
-/I"D:\catiav5_r22\TestSpace\.\CAATest5\DrwSection.m\LocalInterfaces"
-/I"D:\catiav5_r22\TestSpace\.\CAATest5\DrwSection.m\LocalGenerated\win_b64"
-/I"D:\catiav5_r22\TestSpace\.\CAATest5\PublicInterfaces"
-/I"D:\catiav5_r22\TestSpace\.\CAATest5\ImportedInterfaces\win_b64"

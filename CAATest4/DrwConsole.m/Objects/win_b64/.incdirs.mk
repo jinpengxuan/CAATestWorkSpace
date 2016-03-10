@@ -1,5 +1,0 @@
-/I"D:\catiav5_r22\WorkSpace\.\CAATest4\DrwConsole.m\src"
-/I"D:\catiav5_r22\WorkSpace\.\CAATest4\DrwConsole.m\LocalInterfaces"
-/I"D:\catiav5_r22\WorkSpace\.\CAATest4\DrwConsole.m\LocalGenerated\win_b64"
-/I"D:\catiav5_r22\WorkSpace\.\CAATest4\PublicInterfaces"
-/I"D:\catiav5_r22\WorkSpace\.\CAATest4\ImportedInterfaces\win_b64"
