@@ -1,6 +1,0 @@
-!<mkRTViewData> v1.0.0
-INT/000/CUS .\win_b64\code\bin\Addin.pdb|.\CAATest2\Addin.m
-RTV/001/CUS .\win_b64\code\bin\Addin.dll|.\CAATest2\Addin.m
-CSC/000/DSI .\CAATest2\Addin.m\Objects\win_b64\mkcsc\Addin.cscdb|.\CAATest2\Addin.m
-BTV/000/CUS .\win_b64\code\lib\Addin.lib|.\CAATest2\Addin.m
-INT/000/CUS .\win_b64\code\lib\Addin.exp|.\CAATest2\Addin.m
